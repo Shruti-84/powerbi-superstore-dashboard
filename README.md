@@ -18,6 +18,12 @@ This is a visually interactive sales analysis dashboard built as part of an inte
 ## 🎥 Video Submission
 This dashboard was also explained in a 3-minute screen recording submitted as part of the assessment.
 
+## 🔗 Live Dashboard
+
+View the interactive dashboard here:  
+👉 [Superstore Power BI Dashboard – Live Link](https://app.powerbi.com/view?r=eyJrIjoiYWZmNGZlMzMtYWMxNC00ZDU1LThlOGUtNGU2MTEyMGYwZjMyIiwidCI6Ijk3MTJmMDRjLWY1ZjktNDAxZS05OWE3LTdlODM1OTA3MjU3MSJ9)
+
+
 ---
 
 Created by [Shruti Bansal](https://www.linkedin.com/in/your-profile)
